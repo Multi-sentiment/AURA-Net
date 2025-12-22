@@ -1,4 +1,4 @@
-# AURA-Net
+# SCMD-Net
 Anonymous ICME submission
 
 
